@@ -1,0 +1,11 @@
+pygtk
+python-udev
+vte
+
+chmod +w /etc/sudoers
+echo "%tcloud ALL=(ALL) NOPASSWD: ALL">>/etc/sudoers
+chmod -w /etc/sudoers
+
+
+gtk2-engines-clearlooks
+gtk2-engines-pixbuf

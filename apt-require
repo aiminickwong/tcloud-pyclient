@@ -1,0 +1,7 @@
+#python gtk vnc support
+python-gtk-vnc
+#spice support
+#compile spice support
+#libspice-client-gtk-2.0
+
+webkit
